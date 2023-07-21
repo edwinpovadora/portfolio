@@ -81,7 +81,7 @@
             <div class="portfolio-description">
               <h2>Mobile App info</h2>
               <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+              Say goodbye to endless searches and uncertainty about the quality and authenticity of parts. With Tiyo MotorParts and Accessories, you have a reliable companion that simplifies the process of finding and purchasing automotive parts and accessories, all in the palm of your hand.
               </p>
             </div>
           </div>
